@@ -1,12 +1,14 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Result: https://rizxh.github.io/github-repositories-explorer/.
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm i @chakra-ui/react@2 @chakra-ui/icons @emotion/react @emotion/styled framer-motion nodemon axios`
+
+### `nodemon run start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
